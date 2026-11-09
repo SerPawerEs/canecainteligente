@@ -35,9 +35,9 @@ python waste_detector.py --port COM#
 
 
 ## Otros
-´´´
+```
 --camera #
-´´´
-´´´
+```
+```
 --classes "bottle, plastic bottle, plastic cup"
-´´´ 
+```
