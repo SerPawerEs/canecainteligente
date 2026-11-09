@@ -1,0 +1,8 @@
+ultralytics>=8.3.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pyserial>=3.5
+torch>=2.0.0
+torchvision>=0.15.0
+# Requerido por YOLO-World (detección con texto). Necesita git instalado.
+git+https://github.com/ultralytics/CLIP.git
