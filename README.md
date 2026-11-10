@@ -33,7 +33,7 @@ python waste_detector.py --port COM#
 ```
 ejemplo: 
 ```
-python waste_detector.py --classes "bottle, plastic bottle, plastic cup" --port COM8
+python waste_detector.py --classes "bottle, plastic bottle, plastic cup" --port COM3
 ```
 
 ## Otros
