@@ -18,6 +18,9 @@ winget install --id Git.Git -e --source winget
 ```
 pip install -r requirements.txt
 ```
+```
+python test_car.py --list-port
+```
 
 
 ## Run
@@ -26,13 +29,12 @@ Windows:
 .venv\Scripts\activate.bat
 ```
 ```
-python test_car.py --list-port
-```
-```
 python waste_detector.py --port COM#
 ```
-
-
+ejemplo: 
+```
+python waste_detector.py --classes "bottle, plastic bottle, plastic cup" --port COM8
+```
 
 ## Otros
 ```
